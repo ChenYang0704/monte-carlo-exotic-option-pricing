@@ -129,7 +129,7 @@ This separation keeps the core pricing library reusable while allowing numerical
 monte-carlo-exotic-option-pricing/
 ├── README.md
 ├── .gitignore
-├── MonteCarloExoticOptions.sln
+├── MonteCarloExoticOptions.slnx
 ├── MonteCarloExoticOptions.vcxproj
 ├── MonteCarloExoticOptions.vcxproj.filters
 │
@@ -198,7 +198,7 @@ Add the Boost include directory to your Visual Studio include paths before build
 
 ### Build the Project
 
-1. Open `MonteCarloExoticOptions.sln`
+1. Open `MonteCarloExoticOptions.slnx`
 2. Select the desired build configuration (`Debug` or `Release`)
 3. Build the solution
 
