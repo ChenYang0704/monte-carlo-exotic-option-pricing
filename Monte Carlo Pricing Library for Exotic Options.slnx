@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Monte Carlo Pricing Library for Exotic Options.vcxproj" Id="ec0fe71a-e58f-4c69-8eb9-dc02c4cdc35f" />
+</Solution>

@@ -1,0 +1,71 @@
+# ==========================================
+# Visual Studio
+# ==========================================
+
+.vs/
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# Build Outputs
+# ==========================================
+
+Debug/
+Release/
+x64/
+x86/
+
+bin/
+obj/
+
+# Visual Studio generated
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# ==========================================
+# CMake
+# ==========================================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ==========================================
+# Logs
+# ==========================================
+
+*.log
+
+# ==========================================
+# Temporary Files
+# ==========================================
+
+*.tmp
+*.temp
+
+# ==========================================
+# OS Files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
